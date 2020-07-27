@@ -1,0 +1,9 @@
+/scripts
+babel.config.js
+postcss.config.js
+**/node_modules/**
+_scripts
+/lambda/mock/**
+_test_
+webpack.config.js
+
